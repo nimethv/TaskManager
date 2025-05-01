@@ -2,6 +2,14 @@
 
 Task tracker is a project from roadmap used to track and manage your tasks. 
 
+# How to run
+```bash
+   git clone https://github.com/nimethv/TaskManager.git
+    cd TaskManager
+    javac TaskManager.java (if needed)
+
+```
+
 # Usage example
 
 ## Adding a new task
